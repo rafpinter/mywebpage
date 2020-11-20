@@ -1,0 +1,32 @@
+body {
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+nav {
+  height: 100%;
+  width: 30%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: white;
+  overflow-x: hidden;
+  line-height: 1.5;
+
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  color: white;
+  padding: 0;
+}
+
+ /* unvisited link */
+a {
+  color: #6495ED;
+  text-decoration: none;
+}
+
+.name{
+  color:black;
+}
